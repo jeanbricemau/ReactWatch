@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactWatch/static/css/main.0e31040b.css",
+    "main.js": "/ReactWatch/static/js/main.62650fcd.js",
+    "index.html": "/ReactWatch/index.html",
+    "main.0e31040b.css.map": "/ReactWatch/static/css/main.0e31040b.css.map",
+    "main.62650fcd.js.map": "/ReactWatch/static/js/main.62650fcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e31040b.css",
+    "static/js/main.62650fcd.js"
+  ]
+}
